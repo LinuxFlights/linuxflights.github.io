@@ -12,3 +12,5 @@ Hello World 👋
 ![image](https://codeberg.org/OrbitalMartian/pages/raw/branch/main/flightsim/logbook/flights/fgfs-20230415183222.png)
 
 ![image](https://codeberg.org/OrbitalMartian/pages/raw/branch/main/flightsim/logbook/flights/fgfs-20230416154747.png)
+
+![image](https://codeberg.org/OrbitalMartian/pages/raw/branch/main/flightsim/logbook/flights/fgfs-20230416161101.png)
