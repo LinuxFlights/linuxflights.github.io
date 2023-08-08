@@ -1,5 +1,5 @@
 {
-	"name": "orbitalblog",
+	"name": "linuxflights",
 	"version": "8.0.0",
 	"description": "A starter repository for a blog web site using the Eleventy site generator.",
 	"scripts": {
@@ -17,7 +17,7 @@
 	"author": {
 		"name": "CJ",
 		"email": "charl.cj.monke@gmail@gmail.com",
-		"url": "https://orbitalblog.vercel.app/"
+		"url": "https://linuxflights.vercel.app/"
 	},
 	"license": "MIT",
 	"engines": {
