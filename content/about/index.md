@@ -1,11 +1,8 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Me
+  key: About
   order: 3
 ---
-# About Me
-
-Hey folks! I'm CJ, known online as LinuxGamer.
-I am LinuxGamer, a dyslexic artist, programmer, gamer and content creator. I advocate for FOSS projects and use many myself as well as maintain a couple of personal projects too.
-I have an interest in aviation and aircraft.
+# About
+Linux Flights is a community of Flightgear users hanging out, planning and flying in group flights, collaborating on developing aircraft and scenery. Based out of RAF Scampton (EGXP).
