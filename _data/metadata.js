@@ -1,11 +1,11 @@
 module.exports = {
-	title: "OrbitalMartian - Blog",
-	url: "https://orbitalblog.vercel.app/",
+	title: "LinuxFlights - Flightgear Community",
+	url: "https://linuxflights.vercel.app/",
 	language: "en",
 	description: "Hello World!",
 	author: {
 		name: "CJ",
 		email: "linuxgamer@duck.com",
-		url: "https://orbitalblog.vercel.com"
+		url: "https://linuxflights.vercel.com"
 	}
 }
