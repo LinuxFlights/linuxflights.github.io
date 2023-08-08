@@ -19,6 +19,8 @@ Changelog:
 - V0.1 Canopy Release:
    - Added moving canopy and some reworks with the 3d model itself
 
+Notes: This is a fork of the FGUK HawkT2.
+
 <img src="https://codeberg.org/OrbitalMartian/pages/raw/branch/main/flightsim/logbook/flights/fgfs-20230415183222.png" style="width: 100%">
 
 <img src="https://codeberg.org/OrbitalMartian/pages/raw/branch/main/flightsim/logbook/flights/fgfs-20230416154747.png" style="width: 100%">
