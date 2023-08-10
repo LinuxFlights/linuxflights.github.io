@@ -4,4 +4,6 @@ tags:
 - Flightplans
 ---
 
+Flightplan for a Round Robin trip of North Weald (EGSX) via Wales & South-West.
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nvVAK9HyXPPMu7LxlcgFU0kMxTWyLo8&ehbc=2E312F" width="640" height="480"></iframe>
